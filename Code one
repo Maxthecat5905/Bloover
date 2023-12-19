@@ -14,7 +14,7 @@ e = campaignTrail_temp;
 
             document.body.background = "https://i.imgur.com/TFlsN05.png";
 
-            e.election_json = [{"model":"campaign_trail.election","pk":14,"fields":{"year":1916,"summary":"<br>The year is 1920 and political titans, Former Presidents Roosevelt and Wilson are dead, both parties are to be led into the 1920s by household names, who look to help lead the nation out of its current recession.<br><br>Bussinessman and “Great Humanitarian” Herbert Hoover must redeem the Democratic Party's decades in the minority by taking advantage of Hughes's unpopularity - and take advantage of his own popularity from his time heading the Commission for Relief in Belgium.<br><br>Incumbent President Hughes must attempt to walk a fine line on key issues - such as the newfound German control of Europe while preventing his popularity from collapsing even further and preventing an all-out disaster for Republicans.<br>","image_url":"https://i.imgur.com/UAvcN5y.png","winning_electoral_vote_number":270,"advisor_url":"https://i.imgur.com/wn9Ltrl.png","recommended_reading":"<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>","has_visits":1,"no_electoral_majority_image":"../static/images/2012-no-majority.jpg"}}];e.temp_election_list = [{"id":14,"year":1916,"is_premium":0,"display_year":"1920Bloover"}];e.credits = "written and coded by u/maxthecat5905 banner made by Kermity";e.global_parameter_json = [{"model":"campaign_trail.global_parameter","pk":1,"fields":{"vote_variable":1.125,"max_swing":0.12,"start_point":0.94,"candidate_issue_weight":10,"running_mate_issue_weight":3,"issue_stance_1_max":-0.71,"issue_stance_2_max":-0.3,"issue_stance_3_max":-0.125,"issue_stance_4_max":0.125,"issue_stance_5_max":0.3,"issue_stance_6_max":0.71,"global_variance":0.01,"state_variance":0.005,"question_count":25,"default_map_color_hex":"#C9C9C9","no_state_map_color_hex":"#999999"}}];e.candidate_json = [{"model":"campaign_trail.candidate","pk":1001,"fields":{"first_name":"Herbert","last_name":"Hoover","election":14,"party":"Democratic Party","state":"California","priority":1,"description":"Who in America has not heard of Herbert Clark Hoover? The Great Humanitarian, The Great Engineer and the only man Democrats could agree on.<br><br>Hoover secured the nomination against William Gibbs McAdoo, the son-in-law of the late, great Woodrow Wilson. He was a compromise between New York Governor Franklin D. Roosevelt and Nebraska Senator Gilbert Hitchcock.<br><br>Hoover starts with a strong lead over the unpopular President Hughes, his actions feeding Europe making him popular and the economic calamity making the President unpopular. This election is Hoover’s to lose with his loyal lieutenant, Frank Roosevelt, by his side it seems Herb will fulfill the American dream: A poor orphan boy working his way up to America’s top job. <br>","color_hex":"#4d4c99","secondary_color_hex":null,"is_active":1,"image_url":"https://i.imgur.com/Sfpkr8L.jpg","electoral_victory_message":"<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>","electoral_loss_message":"<h3>Fake News?</h3>","no_electoral_majority_message":"<h3>DUMMY EXAMPLE RETURNS TO HELL</h3>","description_as_running_mate":null,"candidate_score":1,"running_mate":false,"scrollable":false}},{"model":"campaign_trail.candidate","pk":1002,"fields":{"first_name":"Franklin","last_name":"Roosevelt","election":14,"party":"Democratic","state":"New York","priority":1,"description":"Franklin Roosevelt is truly your only pick if you want a great running mate - he's young, a Progressive and knows the ins and outs of Government as he has executive experience. He has briefly been the Assistant Secretary of the Navy, and is the 42nd and current Governor of New York.<br><br>However, Roosevelt's Governorship is not popular nationwide, crime, corruption and bootlegging run wild in his state and he is rather young - being only 38 years old. Additionally, the deal the two of you made at this years Democratic convention could lead to attacks lobbed at you by the President.","color_hex":"#0000ff","secondary_color_hex":null,"is_active":0,"image_url":"https://i.imgur.com/uwXZ2es.png","electoral_victory_message":"<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>","electoral_loss_message":"<h3>Fake News?</h3>","no_electoral_majority_message":"<h3>DUMMY EXAMPLE RETURNS TO HELL</h3>","description_as_running_mate":"Franklin Roosevelt is truly your only pick if you want a great running mate - he's young, a Progressive and knows the ins and outs of Government as he has executive experience. He has briefly been the Assistant Secretary of the Navy, and is the 42nd and current Governor of New York.<br><br>However, Roosevelt's Governorship is not popular nationwide, crime, corruption and bootlegging run wild and he is rather young - being only 38 years old. Additionally, the deal the two of you made at this years Democratic convention could lead to attacks lobbed at you by the President.","candidate_score":1,"running_mate":true,"scrollable":false,"partner":"0"}}];e.running_mate_json = [{"model":"campaign_trail.running_mate","pk":2001,"fields":{"candidate":1001,"running_mate":1002}}];
+            e.election_json = [{"model":"campaign_trail.election","pk":14,"fields":{"year":1916,"summary":"<br>The year is 1920 and political titans, Former Presidents Roosevelt and Wilson are dead, both parties are to be led into the 1920s by household names, who look to help lead the nation out of its current recession.<br><br>Bussinessman and “Great Humanitarian” Herbert Hoover must redeem the Democratic Party's decades in the minority by taking advantage of Hughes's unpopularity - and take advantage of his own popularity from his time heading the Commission for Relief in Belgium.<br><br>Incumbent President Hughes must attempt to walk a fine line on key issues - such as the newfound German control of Europe while preventing his popularity from collapsing even further and preventing an all-out disaster for Republicans.<br>","image_url":"https://i.imgur.com/UAvcN5y.png","winning_electoral_vote_number":270,"advisor_url":"https://i.imgur.com/wn9Ltrl.png","recommended_reading":"<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>","has_visits":1,"no_electoral_majority_image":"../static/images/2012-no-majority.jpg"}}];e.temp_election_list = [{"id":14,"year":1916,"is_premium":0,"display_year":"1920Bloover"}];e.credits = "written and coded by u/maxthecat5905 with help from .theanswerisme and banner made by Kermity";e.global_parameter_json = [{"model":"campaign_trail.global_parameter","pk":1,"fields":{"vote_variable":1.125,"max_swing":0.12,"start_point":0.94,"candidate_issue_weight":10,"running_mate_issue_weight":3,"issue_stance_1_max":-0.71,"issue_stance_2_max":-0.3,"issue_stance_3_max":-0.125,"issue_stance_4_max":0.125,"issue_stance_5_max":0.3,"issue_stance_6_max":0.71,"global_variance":0.01,"state_variance":0.005,"question_count":25,"default_map_color_hex":"#C9C9C9","no_state_map_color_hex":"#999999"}}];e.candidate_json = [{"model":"campaign_trail.candidate","pk":1001,"fields":{"first_name":"Herbert","last_name":"Hoover","election":14,"party":"Democratic Party","state":"California","priority":1,"description":"Who in America has not heard of Herbert Clark Hoover? The Great Humanitarian, The Great Engineer and the only man Democrats could agree on.<br><br>Hoover secured the nomination against William Gibbs McAdoo, the son-in-law of the late, great Woodrow Wilson. He was a compromise between New York Governor Franklin D. Roosevelt and Nebraska Senator Gilbert Hitchcock.<br><br>Hoover starts with a strong lead over the unpopular President Hughes, his actions feeding Europe making him popular and the economic calamity making the President unpopular. This election is Hoover’s to lose, and with his loyal lieutenant, Frank Roosevelt, by his side it seems Herb will fulfill the American dream: A poor orphan boy working his way up to America’s top job. <br>","color_hex":"#4d4c99","secondary_color_hex":null,"is_active":1,"image_url":"https://i.imgur.com/Sfpkr8L.jpg","electoral_victory_message":"<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>","electoral_loss_message":"<h3>Fake News?</h3>","no_electoral_majority_message":"<h3>DUMMY EXAMPLE RETURNS TO HELL</h3>","description_as_running_mate":null,"candidate_score":1,"running_mate":false,"scrollable":false}},{"model":"campaign_trail.candidate","pk":1002,"fields":{"first_name":"Franklin","last_name":"Roosevelt","election":14,"party":"Democratic","state":"New York","priority":1,"description":"Franklin Roosevelt is truly your only pick if you want a great running mate - he's young, a Progressive and knows the ins and outs of Government as he has executive experience. He has briefly been the Assistant Secretary of the Navy, and is the 42nd and current Governor of New York.<br><br>However, Roosevelt's Governorship is not popular nationwide, crime, corruption and bootlegging run wild in his state and he is rather young - being only 38 years old. Additionally, the deal the two of you made at this years Democratic convention could lead to attacks lobbed at you by the President.","color_hex":"#0000ff","secondary_color_hex":null,"is_active":0,"image_url":"https://i.imgur.com/uwXZ2es.png","electoral_victory_message":"<h3>REAL PATRIOT DUMMY EXAMPLE SWEEPS</h3>","electoral_loss_message":"<h3>Fake News?</h3>","no_electoral_majority_message":"<h3>DUMMY EXAMPLE RETURNS TO HELL</h3>","description_as_running_mate":"Franklin Roosevelt is truly your only pick if you want a great running mate - he's young, a Progressive and knows the ins and outs of Government as he has executive experience. He has briefly been the Assistant Secretary of the Navy, and is the 42nd and current Governor of New York.<br><br>However, Roosevelt's Governorship is not popular nationwide, crime, corruption and bootlegging run wild and he is rather young - being only 38 years old. Additionally, the deal the two of you made at this years Democratic convention could lead to attacks lobbed at you by the President.","candidate_score":1,"running_mate":true,"scrollable":false,"partner":"0"}}];e.running_mate_json = [{"model":"campaign_trail.running_mate","pk":2001,"fields":{"candidate":1001,"running_mate":1002}}];
 quotes = [`He is certainly a wonder and I wish we could make him President of the United States. There could not be a better one.`, `”Honor is not the exclusive property of any political party." - Herbert Hoover`, `In America today, we are nearer a final triumph over poverty than is any other land.`, `There are only two occasions when Americans respect privacy, especially in Presidents. Those are prayer and fishing.`, `A whole people with the ballot in their hands possess the most conclusive and unlimited power ever entrusted to humanity.`, `True liberal government is founded on the emancipation of men.`, `Next to religion, baseball has had a greater impact on our American way of life than any other American institution.`, `Free government is the most difficult of all government. But it is everlastingly true that the plain people will make fewer mistakes than any other group of men, no matter how powerful.`, `
 The engineer performs many public functions from which he gets only philosophical satisfactions. Most people do not know it, but he is an economic and social force.
 `, `America means far more than a continent bounded by two oceans. It is more than pride of military power, glory in war, or in victory. It means more than vast expanse of farms, of great factories or mines, magnificent cities, or millions of automobiles and radios.`, ]
@@ -22,5 +22,234 @@ customquote = quotes[Math.floor((Math.random() * quotes.length))]
 
 corrr="\n<h2>HERBERT BLOOVER</h2><font id='wittyquote' size='4' color='white'><em>" + customquote + "</em></font>"
 
+$("#music_player")[0].children[0].style.display="none"
+$("#music_player")[0].children[1].style.display="none"
+
+document.getElementById("modLoadReveal").style.display="none"
+document.getElementById("modloaddiv").style.display="none"
+
+musicBox = document.getElementById("music_player")
+musicBox.style.display=""
+
+var trackSel;
+e = campaignTrail_temp
+e.selectedSoundtrack = 0
+
+toTime = (seconds) => {
+  var date = new Date(null);
+  date.setSeconds(seconds);
+  return date.toISOString().substr(11, 8);
+}
+
+generateTime = () => {
+    // Get the audio element
+    var audio = document.getElementById("campaigntrailmusic");
+
+    timeTracker = document.createElement("div");
+    timeTracker.style = `
+      text-align:left;
+      border-style:solid;
+      border-width:3px;
+      height:150px;
+      width:200px;
+      background-color:#999999;
+      float:right;
+      padding: 10px;
+    `
+    $("#trackSelParent")[0].prepend(timeTracker);
+    $("#trackSelParent")[0].prepend(document.createElement("br"));
+
+    // Create a new element to display the current position of the audio
+    var positionDisplay = document.createElement("gg");
+    positionDisplay.id = "position-display";
+
+    // Create a new slider element to change the time
+    var timeSlider = document.createElement("input");
+    timeSlider.type = "range";
+    timeSlider.min = 0;
+    timeSlider.max = 1;
+    timeSlider.step = 0.001;
+    timeSlider.value = 0;
+    timeSlider.style.width = "200px";
+    timeSlider.id = "time-slider";
+
+    var pausePlay = document.createElement("button");
+    pausePlay.id = "position-display";
+    pausePlay.innerHTML = "<b>Pause</b>"
+    pausePlay.style.width = "100%";
+
+
+    pausePlay.addEventListener("click", event => {
+      event.preventDefault();
+      updatePositionDisplay();
+      let audio = document.getElementById("campaigntrailmusic");
+      if (audio.paused) {
+        audio.play();
+        event.target.innerHTML = "<b>Pause</b>";
+        return;
+      }
+      audio.pause();
+      event.target.innerHTML = "<b>Play</b>";
+      return;
+    })
+
+    var volumeLabel = document.createElement("gg");
+    volumeLabel.id = "volume-label";
+    volumeLabel.innerHTML = "<br><b>Volume: </b>"
+
+    var volumeSlider = document.createElement("input");
+    volumeSlider.type = "range";
+    volumeSlider.min = 0;
+    volumeSlider.max = 1;
+    volumeSlider.step = 0.001;
+    volumeSlider.value = 0;
+    volumeSlider.style.width = "200px";
+    volumeSlider.id = "volume-slider";
+
+    volumeSlider.value = audio.volume;
+
+    timeTracker.appendChild(pausePlay);
+    timeTracker.appendChild(document.createElement("br"));
+    timeTracker.appendChild(document.createElement("br"));
+    timeTracker.appendChild(positionDisplay);
+    timeTracker.appendChild(timeSlider);
+    timeTracker.appendChild(volumeLabel);
+    timeTracker.appendChild(volumeSlider);
+
+    updatePositionDisplay();
+
+    //for (let i = 0; i < 10; i++)
+    //timeTracker.append(document.createElement("br"));
+
+
+    // Function to update the position display
+    function updatePositionDisplay() {
+      positionDisplay.innerHTML = "<b>Time:</b> " + toTime(audio.currentTime) + "<br>";
+      timeSlider.value = audio.duration ? audio.currentTime / audio.duration : 0;
+    }
+
+    // Function to change the time of the audio
+    function changeTime() {
+      positionDisplay.innerHTML = "<b>Time:</b> " + toTime(audio.currentTime) + "<br>";
+      audio.currentTime = timeSlider.value * audio.duration;
+    }
+
+    updateVolume = event => {
+      audio.volume = event.target.value;
+    }
+    
+    // Update the position display and slider every second
+    setInterval(updatePositionDisplay, 1000);
+
+    // Listen for changes to the time slider and change the time of the audio
+    timeSlider.addEventListener("input", changeTime);
+    volumeSlider.addEventListener("input", updateVolume)
+}
+
+function newMusicPlayer() {
+  trackSel = document.createElement("div");
+  trackSel.id = "trackSelParent"
+  let z = `<br><br><br><br><br><br><br><br><br><br><div id='trackSel' style="text-align:left;border-style:solid;border-width:3px;overflow-y: scroll;overflow-x: hidden;height:200px; width:400px;background-color:#999999;float:right;">`
+  z += `<b><select id='selectSoundtrack'><option value='`+soundtracks[e.selectedSoundtrack].name+`'>`+soundtracks[e.selectedSoundtrack].name+"</option>"
+  for (i in soundtracks) {
+    if (soundtracks[e.selectedSoundtrack] != soundtracks[i]) {
+      z += `<option value='`+soundtracks[i].name+`'>`+soundtracks[i].name+`</option>`
+    }
+  }
+  z += `</select></b><br><br>`
+  // <label><input type="radio" name="option" value="option1">Option 1</label><br>
+  for (i in soundtracks[e.selectedSoundtrack].tracklist) {
+    let a = soundtracks[e.selectedSoundtrack].tracklist[i]
+    let b = `<label><input class="trackSelector" type="radio" name="trackSelector" value="`+i+`">`+a.name+`</label><br>`
+    z += b
+  }
+  z += "</div><br><br>"
+  trackSel.innerHTML = z
+
+  // select correct song
+
+  musicBox.appendChild(trackSel);
+  Array.from(document.getElementById("trackSel").children).filter(f=>{
+    return f.tagName == "LABEL"
+  }).map(f=>f.children[0])[0].checked = true
+
+  // set soundtrack changer
+
+  soundtrackSelector = document.getElementById("selectSoundtrack")
+  soundtrackSelector.onchange = function() {
+    for (i in soundtracks) {
+      if (soundtracks[i].name == soundtrackSelector.value) {
+        e.selectedSoundtrack = i
+        break
+      }
+    }
+    document.getElementById("trackSelParent").remove()
+    newMusicPlayer()
+  }
+
+  var matches = document.querySelectorAll('.trackSelector');
+
+  for (match in matches) {
+    matches[match].onchange = function() {
+      audio = $("#campaigntrailmusic")[0];
+      audio.src = soundtracks[e.selectedSoundtrack].tracklist[this.value].url
+      audio.currentTime = 0
+    }
+  }
+
+  musicBox.children[2].loop = false
+  musicBox.children[2].src = soundtracks[e.selectedSoundtrack].tracklist[0].url
+
+  musicBox.children[2].onended = function() {
+    console.log("next track")
+    let selected = Number(document.querySelector('input[name="trackSelector"]:checked').value);
+    let newSel = clamp(selected+1, soundtracks[e.selectedSoundtrack].tracklist.length-1, 0)
+    let buttons = Array.from(document.getElementById("trackSel").children).filter(f=>{
+      return f.tagName == "LABEL"
+    }).map(f=>f.children[0])
+    //let selectedIndex = buttons.map(f=>f.children[0]).map(f=>f.checked)
+    buttons[newSel].click()
+  }
+
+  for (w = 0; w < 7; w++) {
+    document.getElementById("trackSelParent").appendChild(document.createElement("br"))
+  }
+  
+  generateTime();
+}
+
+clamp = function(a, max, min, overflow=true) {
+  if (overflow) {
+    return a > max ? min : a < min ? max : a;
+  }
+  return a > max ? max : a < min ? min : a;
+}
+
+
+// Track list
+
+var soundtracks = {
+  0: {
+    name: "Hoover’s Groovin Blues",
+    tracklist: [
+      {
+        "name": "Crazy Blues - Mamie Smith",
+        "url": "https://cdn.discordapp.com/attachments/1153891703032401921/1186468592607301632/Crazy_Blues_78rpm_Version.mp3"
+      },
+      {
+        "name": "Charleston! - Jazz Ensemble",
+        "url": "https://cdn.discordapp.com/attachments/1153891703032401921/1186471562317140008/Charleston_.mp3"
+      },
+      {
+        "name": "Rhapsody in Blue - George Gershwin",
+        "url": "https://cdn.discordapp.com/attachments/1153891703032401921/1186473503197773955/Rhapsody_In_Blue__Gershwin.mp3"
+      }
+    ]
+  }
+}
+
+// Set up new music player
+
+newMusicPlayer()
 
 
